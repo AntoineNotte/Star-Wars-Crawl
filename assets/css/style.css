@@ -11,7 +11,7 @@
 body {
     margin: 0;
     background-color: black;
-    background-image:url(../../images/fond.png);
+    background-image:url(../images/fond.png);
     overflow: hidden !important;
     text-align: center;
   }
