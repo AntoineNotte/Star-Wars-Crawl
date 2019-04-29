@@ -32,7 +32,7 @@ body {
     top: 20%; left: 38%;
     z-index: 1;
     margin: auto;
-    animation: logo 10s ease-out 8s;
+    animation: logo 10s ease-out 7.8s;
     opacity: 0;
     transform: scale(2);
 }
@@ -52,8 +52,7 @@ body {
 }
 
 .history section {
-    animation: history 20s linear 5s;
-    animation: history 100s linear 13s;
+    animation: history 100s linear 14s;
     position: absolute;
     top: 100%;
 }
